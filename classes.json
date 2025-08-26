@@ -1,37 +1,12 @@
 {
   "classes": [
     {
-      "className": "Lab Micro",
+      "className": "A",
       "total classes": "16",
       "absence percentage": 56.25
     },
     {
-      "className": "Lab Projeto",
-      "total classes": "16",
-      "absence percentage": 75
-    },
-    {
-      "className": "Micro",
-      "total classes": "16",
-      "absence percentage": 56.25
-    },
-    {
-      "className": "Prog Logica e Funcional",
-      "total classes": "32",
-      "absence percentage": 75
-    },
-    {
-      "className": "Projeto",
-      "total classes": "16",
-      "absence percentage": 75
-    },
-    {
-      "className": "Sinais e Sistemas",
-      "total classes": "32",
-      "absence percentage": 56.25
-    },
-    {
-      "className": "Telecomunicacoes 2",
+      "className": "B",
       "total classes": "16",
       "absence percentage": 75
     }
