@@ -49,6 +49,6 @@ console.log('which class do you want to see the absence percentage?')
 classesNames('classes.json', data)
 
 
-classAbsence('classes.json', data, 7, 16, 'Lab Micro')
-classAbsence('classes.json', data, 7, 16, 'Micro')
-classAbsence('classes.json', data, 7, 16, 'Sinais e Sistemas')
+classAbsence('classes.json', data, 7, 16, 'A')
+classAbsence('classes.json', data, 7, 16, 'B')
+
